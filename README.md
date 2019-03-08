@@ -1,15 +1,25 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
+<p style="
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0px auto 20px auto;
+    font-size: 40px;
+">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a> + 
   <a href="https://ant.design/">
-    <img alt="Gatsby" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" width="60" />
+    <img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" width="60" />
   </a> + 
   <a href="https://www.npmjs.com/package/antd-scss-theme-plugin">
-    <img alt="Gatsby" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" />antd-scss-theme-plugin
+    <img alt="NPM" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" /> 
+  </a> - 
+  <a href="https://sass-lang.com/">
+    <img alt="SASS" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="60" />
   </a>
 </p>
+
 <h1 align="center">
   Gatsby's default starter and Ant Design SASS
 </h1>
