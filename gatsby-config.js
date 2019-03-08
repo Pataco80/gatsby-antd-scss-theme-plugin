@@ -6,6 +6,26 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+
+    // default parameter ant Design insert theme for use LESS
+    /* 
+     *I have commented on the default design theme support which is in LESS
+     * with modified variables in the and.js file in object format
+    */
+
+    /*{
+      resolve: "gatsby-plugin-less",
+      options: {
+        modifyVars: require("./src/theme/antd.js"),
+        javascriptEnabled: true,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-antd",
+      options: {
+        style: true,
+      },
+    },*/
     {
       resolve: `gatsby-source-filesystem`,
       options: {
