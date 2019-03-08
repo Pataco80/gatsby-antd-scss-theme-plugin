@@ -1,8 +1,10 @@
+<style>p{display:flex;}</style>
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
 <html>
 <head>
-<style>p{display:flex;}</style>
+
 </head>
 <body>
 <p>
