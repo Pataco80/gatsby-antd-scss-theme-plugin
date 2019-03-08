@@ -12,9 +12,7 @@
   <a href="https://ant.design/">
     <img alt="Ant Design" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" width="60" />
   </a> + 
-  <a href="https://www.npmjs.com/package/antd-scss-theme-plugin">
-    <img alt="NPM" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" /> 
-  </a> - 
+   - 
   <a href="https://sass-lang.com/">
     <img alt="SASS" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="60" />
   </a>
