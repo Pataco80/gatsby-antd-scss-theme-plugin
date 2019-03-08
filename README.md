@@ -2,10 +2,16 @@
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a> + 
+  <a href="https://ant.design/">
+    <img alt="Gatsby" src="https://gw.alipayobjects.com/zos/rmsportal/DkKNubTaaVsKURhcVGkh.svg" width="60" />
+  </a> + 
+  <a href="https://www.npmjs.com/package/antd-scss-theme-plugin">
+    <img alt="Gatsby" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" />antd-scss-theme-plugin
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby's default starter and Ant Design SASS
 </h1>
 
 This project aims to create a static Gatsby site with the UI framework of Ant Design based on a customization by theme files in SCSS
