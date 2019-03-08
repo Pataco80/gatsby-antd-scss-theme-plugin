@@ -11,7 +11,7 @@ import { StaticQuery, graphql } from "gatsby"
 import { Layout, Menu, Icon } from 'antd';
 import Header from "./header"
 //import "./layout.css"
-import '../sass/layout.scss'
+import '../sass/layout.scss' // file from test sass
 
 const {
   Content, Footer, Sider,
