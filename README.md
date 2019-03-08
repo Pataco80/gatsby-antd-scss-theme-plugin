@@ -7,7 +7,13 @@
     <img alt="Gatsby" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" width="60" />
   </a> + 
   <a href="https://www.npmjs.com/package/antd-scss-theme-plugin">
-    <img alt="Gatsby" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" />antd-scss-theme-plugin
+    <img alt="Gatsby" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" />
+  </a>
+  <a href="https://www.npmjs.com/package/antd-scss-theme-plugin">
+    <img alt="Gatsby" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" /> 
+  </a>
+  <a href="https://www.npmjs.com/package/antd-scss-theme-plugin">
+    <img alt="Gatsby" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
