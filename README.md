@@ -1,13 +1,10 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<style>
-p{
-  display: flex;
-    justify-content: space-between;
-    width: 50%;
-    margin: 0px auto 20px auto;
-    font-size: 40px;
-}
-</style>
+
+<html>
+<head>
+<style>p{display:flex;}</style>
+</head>
+<body>
 <p>
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
@@ -26,6 +23,10 @@ p{
 <h1 align="center">
   Gatsby's default starter and Ant Design SASS
 </h1>
+</body>
+
+</html>
+
 
 This project aims to create a static Gatsby site with the UI framework of Ant Design based on a customization by theme files in SCSS
 
