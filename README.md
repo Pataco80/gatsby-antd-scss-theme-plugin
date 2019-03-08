@@ -4,7 +4,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a> + 
   <a href="https://ant.design/">
-    <img alt="Gatsby" src="https://gw.alipayobjects.com/zos/rmsportal/DkKNubTaaVsKURhcVGkh.svg" width="60" />
+    <img alt="Gatsby" src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" width="60" />
   </a> + 
   <a href="https://www.npmjs.com/package/antd-scss-theme-plugin">
     <img alt="Gatsby" src="https://static.npmjs.com/c426a1116301d1fd178c51522484127a.png" width="60" />antd-scss-theme-plugin
