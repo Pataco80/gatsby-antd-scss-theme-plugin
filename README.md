@@ -1,5 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p display=flex>
+<style>
+p{
+  display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 0px auto 20px auto;
+    font-size: 40px;
+}
+</style>
+<p>
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a> + 
