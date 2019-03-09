@@ -1,4 +1,8 @@
-<style>p{display:flex;}</style>
+<style>
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+p { display:flex; }
+</style>")
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
