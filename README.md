@@ -1,4 +1,3 @@
-<style>
 (setq markdown-xhtml-header-content
       "<style type='text/css'>
 p { display:flex; }
