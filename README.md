@@ -1,13 +1,6 @@
-<style>p{display:flex;}</style>
-
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-
-<html>
-<head>
-
-</head>
-<body>
-<p>
+<h1 align="center">
+  <div>
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a> + 
@@ -20,15 +13,12 @@
   <a href="https://sass-lang.com/">
     <img alt="SASS" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="60" />
       </a>
-</p>
+</div>
 
-<h1 align="center">
+<div align="center">
   Gatsby's default starter and Ant Design SASS
+  </div>
 </h1>
-</body>
-
-</html>
-
 
 This project aims to create a static Gatsby site with the UI framework of Ant Design based on a customization by theme files in SCSS
 
