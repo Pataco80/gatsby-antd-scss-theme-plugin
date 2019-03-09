@@ -7,7 +7,9 @@ p { display:flex; }
 
 <html>
 <head>
-
+<style type='text/css'>
+p { display:flex; }
+</style>"
 </head>
 <body>
 <p>
