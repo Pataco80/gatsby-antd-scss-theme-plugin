@@ -1,8 +1,3 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-p { display:flex; }
-</style>")
-
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
 <html>
@@ -12,7 +7,7 @@ p { display:flex; }
 </style>"
 </head>
 <body>
-<p>
+<p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a> + 
